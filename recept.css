@@ -4,3 +4,10 @@ body {
 li {
     font-size: large;
 }
+img {
+    margin: auto;
+    display: block;
+}
+p {
+    font-size: x-large;
+}
